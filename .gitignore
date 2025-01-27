@@ -8,7 +8,11 @@ lerna-debug.log*
 .pnpm-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
+<<<<<<< HEAD
 report.[0-9].[0-9].[0-9].[0-9].json
+=======
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+>>>>>>> 8d51745029c545cbcd2a75d87e50a162d9e435fd
 
 # Runtime data
 pids
@@ -117,4 +121,8 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+<<<<<<< HEAD
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node 
+=======
+# End of https://mrkandreev.name/snippets/gitignore-generator/#Node
+>>>>>>> 8d51745029c545cbcd2a75d87e50a162d9e435fd

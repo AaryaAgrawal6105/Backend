@@ -1,14 +1,27 @@
 {
+<<<<<<< HEAD
   "name": "backend-project",
   "version": "1.0.0",
   "description": "mega project backend",
   "main": "index.js",
   "type": "module",
   "scripts": {
+=======
+  "name": "setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+>>>>>>> 8d51745029c545cbcd2a75d87e50a162d9e435fd
     "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
   },
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
+=======
+  "description": "",
+>>>>>>> 8d51745029c545cbcd2a75d87e50a162d9e435fd
   "devDependencies": {
     "nodemon": "^3.1.9",
     "prettier": "^3.4.2"
